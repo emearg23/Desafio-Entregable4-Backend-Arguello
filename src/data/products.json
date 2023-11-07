@@ -1,0 +1,112 @@
+[
+  {
+    "status": true,
+    "id": 1,
+    "title": "Logitech G733 Lightspeed",
+    "description": "They have a comfortable, lightweight design and RGB lighting for some extra style.",
+    "price": 139.99,
+    "thumbnail": "https://www.emmesistemas.com/imgs/productos/productos34_1588.jpg",
+    "code": "abc123",
+    "stock": 4,
+    "category": "Headsets"
+  },
+  {
+    "status": true,
+    "id": 2,
+    "title": "Redragon Pandora RGB",
+    "description": "The Pandora has a very clean, modern and sleek design with its black colour and bright lighting.",
+    "price": 129.99,
+    "thumbnail": "https://mauricomputacion.com.ar/images/productos/galerias/22512/373286654.jpg",
+    "code": "abc123",
+    "stock": 4,
+    "category": "Headsets"
+  },
+  {
+    "status": true,
+    "id": 3,
+    "title": "Razer Kraken Headset",
+    "description": "A gaming headset designed for competitive gamers featuring 50 mm drivers, a retractable microphone, cooling-gel cushions, and cross-platform compatibility.",
+    "price": 55.88,
+    "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_968124-MLA45731111215_042021-O.webp",
+    "code": "abc123",
+    "stock": 7,
+    "category": "Headsets"
+  },
+  {
+    "status": true,
+    "id": 4,
+    "title": "Logitech G Pro X",
+    "description": "The Logitech G PRO Mechanical Gaming keyboard is an excellent RGB-lit gaming keyboard.",
+    "price": 129.99,
+    "thumbnail": "https://www.zenoxstore.com/cdn/shop/products/Logitech-G-PRO-X-_002_c067d137-2154-44d0-9347-7a469f08e880_2400x.png?v=1590564825",
+    "code": "abc123",
+    "stock": 11,
+    "category": "Keyboards"
+  },
+  {
+    "status": true,
+    "id": 5,
+    "title": "Corsair Dark Core RGB/SE",
+    "description": "DARK CORE RGB SE Performance Wireless Gaming Mouse uses an ultra-fast 1ms 2.4GHz wireless connection, Qi® wireless charging and a 16,000 DPI optical sensor for true wireless gaming.",
+    "price": 89.99,
+    "thumbnail": "https://m.media-amazon.com/images/I/61wU9iJnXbL.jpg",
+    "code": "abc123",
+    "stock": 7,
+    "category": "Mouses"
+  },
+  {
+    "status": true,
+    "id": 6,
+    "title": "Corsair K95 RGB",
+    "description": "The Corsair K95 PLATINUM is an excellent gaming keyboard.",
+    "price": 179.99,
+    "thumbnail": "https://www.pctekreviews.com/Reviews/CORSAIR_K95RGB_XT/CORSAIR_K95RGB_XT.jpg",
+    "code": "abc123",
+    "stock": 6,
+    "category": "Keyboards"
+  },
+  {
+    "status": true,
+    "id": 7,
+    "title": "SteelSeries Apex Pro",
+    "description": "It has remarkably low latency, and the OmniPoint switches allow you to fine-tune the sensitivity of your keypresses to best suit your preferences and the game you're playing.",
+    "price": 199.99,
+    "thumbnail": "https://bermorzone.com.ph/wp-content/uploads/2020/03/KEYSTP64734__1.jpg",
+    "code": "abc123",
+    "stock": 3,
+    "category": "Keyboards"
+  },
+  {
+    "status": true,
+    "id": 8,
+    "title": "Razer DeathAdder Elite",
+    "description": "The Razer DeathAdder Elite is ready to take on the eSports arena with its new cutting edge technology, improved ergonomics and extended durability.",
+    "price": 69.99,
+    "thumbnail": "https://www.tradeinn.com/f/13747/137476967/razer-raton-gaming-deathadder-elite-v2.jpg",
+    "code": "abc123",
+    "stock": 9,
+    "category": "Mouses"
+  },
+  {
+    "status": true,
+    "id": 9,
+    "title": "Logitech G Pro Wireless",
+    "description": "The PRO Wireless Gaming Mouse from Logitech G is designed with eSports professionals in mind.",
+    "price": 149.99,
+    "thumbnail": "https://fragstore.ru/images/detailed/23/logitech-g-pro-wireless-2-1000x1000.jpg",
+    "code": "abc123",
+    "stock": 6,
+    "category": "Mouses"
+  },
+  {
+    "status": true,
+    "id": 10,
+    "title": "Razer Basilisk V2",
+    "description": "The Razer Basilisk V2 comes with a dial on its underside that lets you tweak the resistance of its scroll wheel to be as smooth or as tactile as you want.",
+    "price": 180.99,
+    "thumbnail": "https://i.ytimg.com/vi/96vG2NWDk2g/maxresdefault.jpg",
+    "code": "abc123",
+    "stock": 3,
+    "category": "Mouses"
+  }
+]
